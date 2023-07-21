@@ -1,0 +1,42 @@
+.body{
+    margin: 0;
+}
+
+.header{
+    width:100%;
+    padding: 32px;
+    box-sizing: border-box;
+    height: 800px;
+    padding-left: 5%;
+    padding-right: 5%;
+   /* background-color: aqua;*/
+    background-image: url(https://img.freepik.com/free-psd/natural-light-lens-flare-psd-gold-background-sun-ray-effect_53876-140441.jpg?w=2000);
+    background-size:100%px ;
+    background-position: cover;
+    background-repeat: no-repeat;
+
+}
+.navigation{
+    text-align: center;
+}
+.menu-item{
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    font-weight: 300px;
+    margin: 10px 10px 0 0;
+
+}
+
+.heading{
+    font-size: 70px;
+    margin-bottom: 15px;
+    margin-top:132px ;
+    color: black;
+    font-weight: bold;
+}
+.paragraph{
+    font-size: 25px;
+    margin-top: 2px;
+    color: black;
+
+}
